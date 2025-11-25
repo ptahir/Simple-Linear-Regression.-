@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="/mnt/data/advertising.png" width="1000">
+</p>
+
 Advertising Sales Prediction Using Simple Linear Regression 
 This project analyzes the impact of TV, Radio, and Newspaper advertising spending on Sales using Simple Linear Regression. It includes three separate regression models and a full comparison of ROI and predictive performance.
 
@@ -111,9 +116,4 @@ This analysis can help businesses optimize their advertising budgets and improve
 
 
 
-https://github.com/ptahir/Simple-Linear-Regression.-/blob/main/advertising.png
 
-<p align="center">
-  <img src="https://github.com/ptahir/Simple-Linear-Regression.-/blob/main/advertising.png
-" width="800">
-</p>
