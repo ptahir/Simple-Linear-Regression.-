@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="/mnt/data/advertising.png" width="1000">
+  <img src="https://github.com/ptahir/Simple-Linear-Regression.-/blob/main/advertising.png" width="1000">
 </p>
 
 Advertising Sales Prediction Using Simple Linear Regression 
