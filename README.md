@@ -106,3 +106,14 @@ This project demonstrates how Simple Linear Regression can be applied to marketi
 • Model building • Statistical interpretation • Data visualization • Business-focused reporting • ROI-driven decision-making
 
 This analysis can help businesses optimize their advertising budgets and improve revenue outcomes.
+
+
+
+
+
+https://github.com/ptahir/Simple-Linear-Regression.-/blob/main/advertising.png
+
+<p align="center">
+  <img src="https://github.com/ptahir/Simple-Linear-Regression.-/blob/main/advertising.png
+" width="800">
+</p>
